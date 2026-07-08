@@ -14,6 +14,7 @@ I'm analytical but not robotic about it. I dig into data because I genuinely enj
 I'm also someone who cares about the people around me. I've coached and mentored new hires, calibrated vendor teams across countries, and presented to senior leadership in rooms where I was the least experienced person. I'm comfortable being uncomfortable.
 
 Where I'm going?
+
 Trust & Safety has been my foundation, but I don't see myself staying in one lane forever. I'm interested in where my skills can translate next: data analytics, operations management, maybe sales and business development (especially leveraging German in the DACH market), or any role where SQL, Python, and the ability to make sense of complex systems is valued. I'm looking for environments where I can keep learning, keep building, and work with people who care about doing things well.
 
 What's here?
